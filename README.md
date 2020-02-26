@@ -6,6 +6,7 @@ Seattle, WA | <adrienne.easton@gmail.com> |  206.799.1723
 Software developer engineer with a passion for writing clean, usable, and accessible code that improves the lives of as many people as possible. With previous history in the fields of psychology and psychometry, brings pattern and data analysis as well as knowledge and empathy around human behavior to add to full stack programming skills. 
 
 ## Technical Skills
+
 **Languages:** JavaScript, Java, SQL, NoSQL, CSS, HTML  
 **Tools:** React.js, React-Native, Expro, Redux, Git, GitHub, AWS, Heroku, Jest, MongoDB,
 Postgres, Rest APIs, Travis CI, Azure, Express, Node.js, JQuery, SCSS, Agile, 
@@ -13,35 +14,42 @@ Microsoft Office, Swagger
 **Operating systems:** Windows, Linux
 
 ## Projects 
-### FMLA Tracker prototype for King County Metro | June 2019   
-https://jala-code301final.herokuapp.com/  
+
+### FMLA Tracker prototype for King County Metro | June 2019  
+
+[deployed site](https://jala-code301final.herokuapp.com/)  
+
 Prototype app for King County Metro for human resources efficiency (being used in field). 
 - Built with JavaScript, HTML, CSS, Google Docs API, and Google Translate API.
 - Calculates use of Family Medical Leave Act (FMLA), including accessibility for language choice. 50% productivity improvement in test by King County Metro.
 
 ### Multiple Intelligences Survey | March 2019  
-<https://determined-meitner-1b9a23.netlify.com>  
+
+[deployed site](https://determined-meitner-1b9a23.netlify.com)  
+
 App survey of the Theory of Multiple Intelligences (being used in field in Seattle Public Schools).
 - Built with JavaScript, HTML, and CSS. 
 - Features pages that lead the user through a quiz assessing their strengths via Howard Gardner’s Theory of Multiple Intelligences, providing education and automated scoring.
 
 ### Busker/ Street Performer Tipping App | November 2019   
-<https://github.com/401-javaScript-final-project/final-project-frontend>  
-<https://docs.google.com/presentation/d/1oJJ4T86SZ8YwFqUplqYVvkKIDHkWMEFF6eVHqTJ2ElQ/edit?usp=sharing> (Presentation deck)  
+
+[deployed site](https://github.com/401-javaScript-final-project/final-project-frontend) | [presentation deck](https://docs.google.com/presentation/d/1oJJ4T86SZ8YwFqUplqYVvkKIDHkWMEFF6eVHqTJ2ElQ/edit?usp=sharing)  
+
 Prototype phone app for patrons to be able to easily tip street performers/buskers.
 - Built with JavaScript, React-Native, Expo, Firebase, Paypal Developer API.
 - Current functionality involves scanning a QR to get the performer’s payment information, and then connecting to Paypal for processing.
 	
 ### Audio-Color | March 2019  
-<https://github.com/audio-color/audio-color>  
-<https://tinyurl.com/audiocolor> (Presentation deck)  
+
+[deployed site](https://github.com/audio-color/audio-color) | [presentation deck](https://tinyurl.com/audiocolor)  
+
 App utilizing Raspberry Pi to affect lights based on the mood of music.  
 - Built with JavaScript, HTML, CSS and Spotify API. 
 - Embedded Programming using Raspberry Pi, Johnny-Five, Raspi-IO to create mood via LEDs, triggered by Spotify API metadata. 
 
 ## Experience
 ### Code Fellows, Teaching Assistant 
--> December 2019 - present <-
+December 2019 - present  
 
 - Assisted with software development instruction, one-on-one and in small group, with students from a wide variety of backgrounds, experiences, and skill levels. 
 - Provided regular grading, individualized instruction and guidance, updates on progress of students to lead instructor, and encouragement and inspiration to students.
