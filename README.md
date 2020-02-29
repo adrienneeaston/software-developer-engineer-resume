@@ -18,7 +18,7 @@ Microsoft Office, Swagger
 
 ### FMLA Tracker prototype for King County Metro | June 2019  
 
-[deployed site](https://jala-code301final.herokuapp.com/)  
+[deployed site](https://jala-code301final.herokuapp.com/) | [GitHub repository](https://github.com/fmla-leave-assistant/fmla-leave-assistant)  
 
 Prototype app for King County Metro for HR efficiency (actively being used in field). 
 - Built with JavaScript, HTML, CSS, Google Docs API, and Google Translate API.
