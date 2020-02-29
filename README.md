@@ -26,7 +26,7 @@ Prototype app for King County Metro for HR efficiency (actively being used in fi
 
 ### Multiple Intelligences Survey | March 2019  
 
-[deployed site](https://determined-meitner-1b9a23.netlify.com)  
+[deployed site](https://determined-meitner-1b9a23.netlify.com) | [GitHub repository](https://github.com/aimurphyii/multiple-intelligences-survey)
 
 App survey of the Theory of Multiple Intelligences (actively being used in field in Seattle Public Schools, under continuous development for improved user experience).
 - Built with JavaScript, HTML, and CSS. 
