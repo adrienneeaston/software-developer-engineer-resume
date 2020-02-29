@@ -34,7 +34,7 @@ App survey of the Theory of Multiple Intelligences (actively being used in field
 
 ### Busker/ Street Performer Tipping App | November 2019   
 
-[deployed site](https://github.com/401-javaScript-final-project/final-project-frontend) | [GitHub repository](https://github.com/401-javaScript-final-project/final-project-frontend) | [presentation deck](https://docs.google.com/presentation/d/1oJJ4T86SZ8YwFqUplqYVvkKIDHkWMEFF6eVHqTJ2ElQ/edit?usp=sharing)
+[GitHub repository](https://github.com/401-javaScript-final-project/final-project-frontend) | [presentation deck](https://docs.google.com/presentation/d/1oJJ4T86SZ8YwFqUplqYVvkKIDHkWMEFF6eVHqTJ2ElQ/edit?usp=sharing)
 
 Prototype phone app for patrons to be able to easily tip street performers/buskers.
 - Built with JavaScript, React-Native, Expo, Firebase, Paypal Developer API.
@@ -42,7 +42,7 @@ Prototype phone app for patrons to be able to easily tip street performers/buske
 	
 ### Audio-Color | March 2019  
 
-[deployed site](https://github.com/audio-color/audio-color) | [presentation deck](https://tinyurl.com/audiocolor)  
+[GitHub repository](https://github.com/audio-color/audio-color) | [presentation deck](https://tinyurl.com/audiocolor)  
 
 App utilizing Raspberry Pi to affect lights based on the mood of music.  
 - Built with JavaScript, HTML, CSS and Spotify API. 
