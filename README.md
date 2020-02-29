@@ -34,7 +34,7 @@ App survey of the Theory of Multiple Intelligences (actively being used in field
 
 ### Busker/ Street Performer Tipping App | November 2019   
 
-[GitHub repository](https://github.com/401-javaScript-final-project/final-project-frontend) | [presentation deck](https://docs.google.com/presentation/d/1oJJ4T86SZ8YwFqUplqYVvkKIDHkWMEFF6eVHqTJ2ElQ/edit?usp=sharing)
+[GitHub repository](https://github.com/401-javaScript-final-project/final-project-frontend) | [presentation deck](https://tinyurl.com/buskerapp)
 
 Prototype phone app for patrons to be able to easily tip street performers/buskers.
 - Built with JavaScript, React-Native, Expo, Firebase, Paypal Developer API.
