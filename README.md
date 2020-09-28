@@ -61,11 +61,11 @@ B.A. in Psychology (minor in Visual Art) | June 1998
 
 ## Experience  
 
-### Code Fellows, Teaching Assistant 
+### Code Fellows, Lead Intstructor | Assistant Instructor | Teaching Assistant 
 
 December 2019 - present  
 
-- Assisted with software development instruction, one-on-one and in small group, with students from a wide variety of backgrounds, experiences, and skill levels. 
+- Delivered software development instruction, one-on-one and in large and small groups, with students from a wide variety of backgrounds, experiences, and skill levels. 
 - Provided regular grading, individualized instruction and guidance, updates on progress of students to lead instructor, and encouragement and inspiration to students.
 
 ### Code Fellows, Software Developer Student
