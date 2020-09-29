@@ -4,7 +4,7 @@ Software Developer Engineer
 Seattle, WA | <adrienne.easton@gmail.com> |  206.799.1723  
 <https://linkedin.com/in/adrienne-easton> | <https://github.com/adrienneeaston>
 
-Software developer engineer with a passion for writing clean, usable, and accessible code that improves the lives of as many people as possible. With previous history in the fields of psychology and psychometry, I bring pattern and data analysis as well as knowledge and empathy around human behavior to add to full stack programming skills. 
+Software developer engineer with a passion for writing clean, usable, and accessible code that improves and empowers the lives of as many people as possible. With previous history in the fields of psychology and psychometry, I bring pattern and data analysis as well as knowledge and empathy around human behavior to add to full stack programming skills. 
 
 ## Technical Skills
 
