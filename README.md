@@ -8,10 +8,9 @@ Software developer engineer with a passion for writing clean, usable, and access
 
 ## Technical Skills
 
-**Languages:** JavaScript, Java, SQL, NoSQL, CSS, HTML  
-**Tools:** React.js, React-Native, Expro, Redux, Git, GitHub, AWS, Heroku, Jest, MongoDB,
-Postgres, Rest APIs, Travis CI, Azure, Express, Node.js, JQuery, SCSS, Agile, 
-Microsoft Office, Swagger  
+**Languages:** JavaScript, Java, SQL, NoSQL, CSS, HTML, Ruby 
+**Tools:** React.js, React-Native, Redux, Rails, Git, GitHub, AWS, Heroku, Jest, MongoDB, Postgres, Rest APIs, Travis CI, Expo, Azure, Express, Node.js, JQuery, SCSS, Bootstrap, Agile, Microsoft Office, Swagger
+
 **Operating systems:** Windows, Linux
 
 ## Projects 
@@ -48,22 +47,19 @@ App utilizing Raspberry Pi to affect lights based on the mood of music.
 - Built with JavaScript, HTML, CSS and Spotify API. 
 - Embedded Programming using Raspberry Pi, Johnny-Five, Raspi-IO to create mood via LEDs, triggered by Spotify API metadata. 
 
-## Education  
-
-Code Fellows | Seattle, WA  
-Certificate - Advanced Software Development in Full-StackJavaScript | November 2019
-
-Chapman University | Orange, CA  
-M.A. in Educational Psychology | May 2001
-
-University of California, San Diego | San Diego, CA  
-B.A. in Psychology (minor in Visual Art) | June 1998
-
 ## Experience  
+
+### Versatackle, Software Developer
+
+October 2020 - present
+
+- Utilized Javascript and Ruby/Rails to improve usability and accessibility for Versatackle’s conferencing platform. 
+- Collaborated regularly with technical and business staff on design, user experience, development, testing, and implementation.
+
 
 ### Code Fellows, Lead Intstructor | Assistant Instructor | Teaching Assistant 
 
-December 2019 - present  
+December 2019 - October 2020  
 
 - Delivered software development instruction, one-on-one and in large and small groups, with students from a wide variety of backgrounds, experiences, and skill levels. 
 - Provided regular grading, individualized instruction and guidance, updates on progress of students to lead instructor, and encouragement and inspiration to students.
@@ -105,3 +101,14 @@ April 2015 - August 2017
 
 - Administered neuropsychological tests to children and adults, yielding test scores and insights to inform diagnosis by neuropsychologists.
 - Wrote descriptive notes regarding insights and observed test behavior, providing the neuropsychologist a clear picture of the patient for diagnosis and report writing. 
+
+## Education  
+
+Code Fellows | Seattle, WA  
+Certificate - Advanced Software Development in Full-StackJavaScript | November 2019
+
+Chapman University | Orange, CA  
+M.A. in Educational Psychology | May 2001
+
+University of California, San Diego | San Diego, CA  
+B.A. in Psychology (minor in Visual Art) | June 1998
