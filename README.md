@@ -9,8 +9,7 @@ Software developer engineer with a passion for writing clean, usable, and access
 ## Technical Skills
 
 **Languages:** JavaScript, Java, SQL, NoSQL, CSS, HTML, Ruby  
-**Tools:** React.js, React-Native, Redux, Rails, Git, GitHub, AWS, Heroku, Jest, MongoDB, Postgres, Rest APIs, Travis CI, Expo, Azure, Express, Node.js, JQuery, SCSS, Bootstrap, Agile, Microsoft Office, Swagger
-
+**Tools:** React.js, React-Native, Redux, Rails, Git, GitHub, AWS, Heroku, Jest, MongoDB, Postgres, Rest APIs, Travis CI, Expo, Azure, Express, Node.js, JQuery, SCSS, Bootstrap, Agile, Microsoft Office, Swagger  
 **Operating systems:** Windows, Linux
 
 ## Projects 
