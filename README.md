@@ -53,8 +53,7 @@ App utilizing Raspberry Pi to affect lights based on the mood of music.
 October 2020 - present
 
 - Utilized Javascript and Ruby/Rails to improve usability and accessibility for Versatackle’s conferencing platform. 
-- Collaborated regularly with technical and business staff on design, user experience, development, testing, and implementation.
-
+- Collaborated regularly with technical and business staff on design, user experience, development, testing, and implementation.  
 
 ### Code Fellows, Lead Intstructor | Assistant Instructor | Teaching Assistant 
 
